@@ -1,6 +1,13 @@
-### Hi there, I'm Angelo Annunziata (aka: @ild0tt0re), a Software Engineer from Italy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## Hi there, I'm Angelo Annunziata (aka: @ild0tt0re), a Software Engineer from Italy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-<p><a href="https://www.linkedin.com/in/ild0tt0re" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+<p>
+  <a href="https://github.com/ild0tt0re/?tab=follow"><img src="https://img.shields.io/badge/-Follow-000.svg?&style=for-the-badge&logo=Github&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/ild0tt0re" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:ing.annunziata@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" height=25></a>
+  <a href="https://www.twitter.com/ild0tt0re"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://t.me/ild0tt0re"><img src="https://img.shields.io/badge/Telegram-0088CC.svg?&style=for-the-badge&logo=Telegram&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/ild0tt0re/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
 
 <!--
 **ild0tt0re/ild0tt0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
