@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Angelo Annunziata (aka: @ild0tt0re), a Software Engineer from Italy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+<p><a href="https://www.linkedin.com/in/ild0tt0re" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 <!--
 **ild0tt0re/ild0tt0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
