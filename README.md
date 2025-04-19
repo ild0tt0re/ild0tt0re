@@ -1,4 +1,4 @@
-## Hi there, I'm Angelo Annunziata (aka: @ild0tt0re), a Software Engineer from Italy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## Hi there, I'm Angelo Annunziata (aka: @ild0tt0re), a Software Engineer from Italy 👨‍💻
 
 <p>
   <a href="https://github.com/ild0tt0re/?tab=follow"><img src="https://img.shields.io/badge/-Follow-000.svg?&style=for-the-badge&logo=Github&logoColor=white" height=25></a>
